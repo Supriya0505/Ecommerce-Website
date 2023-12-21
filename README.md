@@ -1,0 +1,3 @@
+# Ecommerce-Website
+
+developed of a comprehensive e-commerce site, integrating HTML, CSS, React, and Angular. Managed end-to-end processes, implemented secure user registration with React, and efficiently handled requests using Angular. Engaged in requirement gathering, feasibility studies, and documented the development lifecycle. Ensured robust security with Spring Security, optimized databases with Hibernate, and utilized RESTful APIs for cart and payment processing. Introduction of React and Angular improved interactivity and responsiveness. Implemented STRIP payment processing for secure transactions.
